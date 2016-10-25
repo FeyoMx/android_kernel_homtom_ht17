@@ -13,7 +13,6 @@ OS: |  Android 6.0
 
 ### **Bugs at publishing moment:**
 * Front camera
-* Alsps
 * Charger
 * Fingerprint
 * Battery incorrect table
